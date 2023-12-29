@@ -17,7 +17,7 @@
 #ifndef VENDOR_LINEAGE_POWERSHARE_V1_0_POWERSHARE_H
 #define VENDOR_LINEAGE_POWERSHARE_V1_0_POWERSHARE_H
 
-#include <vendor/lineage/powershare/1.0/IPowerShare.h>
+#include <hardware/lineage/interfaces/powershare/1.0/IPowerShare.h>
 
 namespace vendor {
 namespace lineage {
