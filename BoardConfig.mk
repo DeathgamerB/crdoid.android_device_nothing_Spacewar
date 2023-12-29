@@ -35,6 +35,9 @@ TARGET_2ND_CPU_ABI := armeabi-v7a
 TARGET_2ND_CPU_ABI2 := armeabi
 TARGET_2ND_CPU_VARIANT := cortex-a76
 
+# Bootanimation
+TARGET_BOOT_ANIMATION_RES :=1080
+
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := Spacewar
 TARGET_NO_BOOTLOADER := true
