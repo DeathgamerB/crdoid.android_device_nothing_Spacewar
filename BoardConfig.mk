@@ -218,4 +218,4 @@ CONFIG_IEEE80211AX := true
 include vendor/nothing/Spacewar/BoardConfigVendor.mk
 
 # Others
-BUILD_BROKEN_GENRULE_SANDBOXING := false
+BUILD_BROKEN_GENRULE_SANDBOXING := true
